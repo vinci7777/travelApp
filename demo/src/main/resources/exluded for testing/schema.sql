@@ -1,0 +1,9 @@
+-- create table reservation(
+--                             id int primary key auto_increment,
+--                             flight_from varchar(20),
+--                             flight_to varchar(20),
+--                             flight_start TIMESTAMP,
+--                             flight_end TIMESTAMP,
+--                             flight_quality varchar(20),
+--                             flight_price int
+-- );
